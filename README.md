@@ -124,7 +124,7 @@ Detais.java
 
  
 
-
+Note:Please Enter Numerical Values as your choices when the output asks you enter the choice.
 
  
 
